@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+fingerprint_report.json
+fingerprint_report.md
+.env
